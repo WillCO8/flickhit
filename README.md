@@ -3,7 +3,7 @@
 A nostalgic web app that connects your photos to the #1 Billboard song from the week they were taken.  
 **Flick = Picture. Hit = Hit Song.**
 
-🔗 **Live App:** [https://willco8.github.io/flickhit/](https://willco8.github.io/flickhit/)
+🔗 **Live App:** [https://williamchonortega.github.io/flickhit/](https://williamchonortega.github.io/flickhit/)
 
 ---
 
